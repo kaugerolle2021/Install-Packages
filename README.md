@@ -1,2 +1,2 @@
-# Linux-Mint-Install-Package
+# Install-Package
 Installation Scripts/Files for Linux Mint.
